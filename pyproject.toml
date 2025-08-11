@@ -1,0 +1,11 @@
+[project]
+name = "ez_minesweeper"
+version = "0.1.0"
+dependencies = [
+    "torch",
+    "numpy",
+    "gymnasium",
+]
+
+[tool.ruff]
+line-length = 88
